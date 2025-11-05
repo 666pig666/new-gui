@@ -1,0 +1,29 @@
+{
+  "name": "video-synth-sequencer",
+  "version": "1.0.0",
+  "description": "Professional audio-reactive video sequencer optimized for Apple Silicon Macs",
+  "type": "module",
+  "main": "src/main.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "video",
+    "audio",
+    "midi",
+    "threejs",
+    "webgl",
+    "apple-silicon",
+    "visualization"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "three": "^0.160.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
